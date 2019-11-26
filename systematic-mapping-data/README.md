@@ -1,11 +1,20 @@
-# A Busca como um Processo de Aprendizagem: Uma Análise Sistemática da Evolução da Área a partir das Publicações
+# A Evolução da Área de Busca como um Processo de Aprendizagem com base em um Mapeamento Sistemático
 ---
 
-Neste repositório contém os arquivos do mapeamento sistemático realizado no trabalho:
+Se você utilizar estes dados em sua pesquisa considere citar o artigo:
 
 ```
-MACHADO, M. O. C. ; TEIXEIRA, C. P. ; SIQUEIRA, S. W. M. . 
-A Busca como um Processo de Aprendizagem: Uma Análise Sistemática da Evolução da Área a partir das Publicações. 
-In: 1º Workshop Brasileiro de Busca como um Processo de Aprendizagem (WBPA @ CBIE 2019), 2019, Brasília. 
-Anais dos Workshops do Congresso Brasileiro de Informática na Educação. Porto Alegre: SBC, 2019.
+Machado, M., Pinelli, C., & Siqueira, S. (2019, November). A Evolução da Área de Busca como um Processo de Aprendizagem com base em um Mapeamento Sistemático. In Anais dos Workshops do Congresso Brasileiro de Informática na Educação (Vol. 8, No. 1, p. 833).
+```
+
+```
+@inproceedings{machado2019evoluccao,
+  title={A Evolu{\c{c}}{\~a}o da {\'A}rea de Busca como um Processo de Aprendizagem com base em um Mapeamento Sistem{\'a}tico},
+  author={Machado, Marcelo and Pinelli, Cleber and Siqueira, Sean},
+  booktitle={Anais dos Workshops do Congresso Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o},
+  volume={8},
+  number={1},
+  pages={833},
+  year={2019}
+}
 ```
